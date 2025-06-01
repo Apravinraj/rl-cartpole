@@ -14,8 +14,8 @@ ii) 1: Push cart to the right
 
 ## MONTE CARLO CONTROL ALGORITHM FOR CART POLE BALANCING
 ```
-Developed By:ALAGU NACHIYAR K
-Reg No.: 212222240006
+Developed By:Pravin Raj A
+Reg No.: 212222240079
 ```
 ```
 def create_bins(n_bins=g_bins, n_dim=4):
